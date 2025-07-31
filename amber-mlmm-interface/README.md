@@ -18,7 +18,7 @@ The implementation is contained in a single Fortran source file, consistent with
 - Computing ML/MM Coulombic interactions (energies and forces) analytically.
 
 ## Notes
-
+- This interface was officially merged into the Amber master branch and is included in the AmberTools25 release.
 - This code was used in [this publication](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.4c01792) (which was selected for the [journal cover](https://pubs.acs.org/toc/jctcce/21/10)!)
 - The underlying physical model was validated in [this study](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.4c00478).
 - It depends on the [TorchaniAMBER interface](https://github.com/roitberg-group/torchani-amber), a C++ wrapper for PyTorch-based ANI models. My contributions to that repository were limited and focused mainly on documentation and validation. The AMBER-side implementation provided here is entirely my own work.
