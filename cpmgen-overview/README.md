@@ -8,7 +8,7 @@ decisions and scope.**
 ## Applications
 - Exploring cyclic peptide sequence and conformational space.
 - Generating input for docking workflows.
-- Genreating input for ML training (coupled with the [CREST](https://pubs.aip.org/aip/jcp/article/160/11/114110/3278084) method for conformational search).
+- Generating input for ML training (coupled with the [CREST](https://pubs.aip.org/aip/jcp/article/160/11/114110/3278084) method for conformational search).
 
 Actual README of the code starts below.
 ---
